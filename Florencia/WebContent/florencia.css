@@ -1,0 +1,26 @@
+@charset "UTF-8";
+html {
+  background-color:#688A08;
+}
+h1{
+	color: #642EFE;
+	text-align: right;
+	letter-spacing: 30px;
+}
+h2{
+	background-color: #0B6121;
+	 
+}
+img.left{
+	float:left;
+}
+
+img.center{
+	align:center;
+	
+}
+
+img.right{
+	float:right;
+	
+}
